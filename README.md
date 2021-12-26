@@ -17,4 +17,4 @@ https://www.kaggle.com/aakash50897/churn-modellingcsv
 Image Processing Using SVM (Dataset) :
 https://www.kaggle.com/d4rklucif3r/cat-and-dogs
 
-Image Processing Using ANN (Dataset) :
+Image Processing Using ANN (Dataset) : (Included Within Folder)
