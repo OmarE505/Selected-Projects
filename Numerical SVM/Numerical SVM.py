@@ -13,7 +13,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 # In[4]:
 
 
-bankdata = pd.read_csv("C:/Users/desit/Desktop/Selected/Numerical/Numerical SVM/bill_authentication.csv")
+bankdata = pd.read_csv("C:/Users/OmarAyman/PycharmProjects/Selected-Projects/Numerical SVM/bill_authentication.csv")
 
 
 # In[5]:
