@@ -15,6 +15,6 @@ Numerical Dataset using ANN (Dataset) :
 https://www.kaggle.com/aakash50897/churn-modellingcsv
 
 Image Processing Using SVM (Dataset) :
-https://www.kaggle.com/d4rklucif3r/cat-and-dogs
+https://github.com/CheshtaK/Image-Classification/tree/master/Images
 
 Image Processing Using ANN (Dataset) : https://drive.google.com/file/d/1khibw8lVfblrg1jiyl04SpphllOmiLHS/view
